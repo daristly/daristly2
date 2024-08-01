@@ -1,4 +1,4 @@
-# daristly2
+34 Criar um perfil no GitHub, adicionando um novo repositório; 
 Meu nome é Daristly
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
